@@ -16,17 +16,9 @@ This platform helps property owners and managers with property listing, rent pay
 
 This platform helps property owners manage their properties with ease, while offering tenants a transparent and organized way to track rent payments. It supports various property types and ensures timely rent collection and seamless management of rental agreements.
 
-## 🛠️ Technologies Used:
-
--   Node.js
--   Express.js
--   MongoDB
--   React.js (Frontend)
--   RESTful API
-
 ## 💻 Getting Started:
 
-1. Clone the repository: `git clone https://github.com/kailash-parihar/rent-management-application.git`
+1. Clone the repository: `git clone https://github.com/thekailashparihar/rent-management.git`
 2. Install dependencies: `npm install`
 3. Run the application: `npm run dev`
 
