@@ -12,7 +12,7 @@ import PricingPage from "./pages/PricingPage";
 import AboutUs from "./pages/AboutUs";
 import ContactUs from "./pages/ContactUs";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
-import TermsOfUse from "./pages/TermsOfUse.jsx";
+import TermsOfUse from "./pages/TermsOfUse";
 import FAQ from "./pages/FAQ";
 
 const App = () => {
