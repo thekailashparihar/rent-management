@@ -26,7 +26,7 @@ const HomePage = () => {
             </div>
             <div className="hero-background">
                 <img
-                    src="../src/assets/images/home-frontend-image.webp"
+                    src="/images/home-frontend-image.webp"
                     alt="background"
                     srcset=""
                 />
@@ -37,51 +37,47 @@ const HomePage = () => {
                     Maximize efficiency with Rento's robust feature set
                 </h1>
                 <div className="cards-container">
-                    {" "}
                     <div className="card">
-                        {" "}
                         <img
-                            src="../src/assets/images/list-properties-for-free.jpg"
+                            src="/images/list-properties-for-free.jpg"
                             alt="List Properties for Free"
                             className="card-img"
-                        />{" "}
-                        <h2 className="card-title">List Properties for Free</h2>{" "}
+                        />
+                        <h2 className="card-title">List Properties for Free</h2>
                         <p className="card-description">
                             Showcase your properties online and attract tenants
                             instantly without any listing fees.
-                        </p>{" "}
-                    </div>{" "}
+                        </p>
+                    </div>
                     <div className="card">
-                        {" "}
                         <img
-                            src="../src/assets/images/manage-everything-in-one-place.png"
+                            src="/images/manage-everything-in-one-place.png"
                             alt="Manage Everything in One Place"
                             className="card-img"
-                        />{" "}
+                        />
                         <h2 className="card-title">
                             Manage Everything in One Place
-                        </h2>{" "}
+                        </h2>
                         <p className="card-description">
                             Oversee multiple properties, tenants, complaints,
                             and maintenance seamlessly from a single dashboard.
-                        </p>{" "}
-                    </div>{" "}
+                        </p>
+                    </div>
                     <div className="card">
-                        {" "}
                         <img
-                            src="../src/assets/images/track-payments-and-inventory.jpg"
+                            src="/images/track-payments-and-inventory.jpg"
                             alt="Track Payments and Inventory"
                             className="card-img"
-                        />{" "}
+                        />
                         <h2 className="card-title">
                             Track Payments and Inventory
-                        </h2>{" "}
+                        </h2>
                         <p className="card-description">
                             Stay on top of rent payments, security deposits, and
                             tenant balances while monitoring inventory like
                             furniture, appliances, or room availability.
-                        </p>{" "}
-                    </div>{" "}
+                        </p>
+                    </div>
                 </div>
             </div>
             <Carousel />
